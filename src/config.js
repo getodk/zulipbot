@@ -39,5 +39,5 @@ module.exports = {
   reviewedLabel: "reviewed",
   needsReviewLabel: "needs review",
   priorityLabels: ["priority: high", "priority: medium", "priority: low", "priority"],
-  pullRequestsAssignee: true // if you submit a review to a PR, you are assigned to it
+  pullRequestsAssignee: false
 };
