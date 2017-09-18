@@ -6,7 +6,7 @@ module.exports = {
   username: process.env.USERNAME || secrets.username,
   password: process.env.PASSWORD || secrets.password,
   webhookSecret: process.env.WEBHOOK_SECRET || secrets.webhookSecret,
-  claimCommands: ["claim"], 
+  claimCommands: ["claim", "claim."], 
   addCollabPermission: "pull",
   abandonCommands: ["abandon", "unclaim", "abort"],
   labelCommands: ["label", "add"], 
