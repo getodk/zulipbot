@@ -48,6 +48,7 @@ exports.activity = {
       "opendatakit/governance",
       "opendatakit/javarosa",
       "opendatakit/roadmap",
+      "opendatakit/share",
       "opendatakit/slack-server",
       "opendatakit/validate",
       "opendatakit/website",
