@@ -63,3 +63,4 @@ typings/
 config/secrets.json
 config/config.js
 secret.tar
+yarn.lock
